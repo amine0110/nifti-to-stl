@@ -1,6 +1,6 @@
 # Convert Nifti Files into STL Files
 
-This code is for converting the 3D segmentation files (Nifti) into 3D mesh representation (STL). If you are interested about the project then you can read more in this [article](https://www.youtube.com/watch?v=HNJduYogxh4&t=771s&ab_channel=Mr.PSolver).
+This code is for converting the 3D segmentation files (Nifti) into 3D mesh representation (STL). If you are interested about the project then you can read more in this [article](https://pycad.co/nifti-to-stl/).
 
 The operation is very easy and can be done if a few lines of code.
 
