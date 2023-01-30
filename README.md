@@ -31,3 +31,8 @@ obj_3d.save('segmentation.stl')
 <p align="center">
   <img src="https://user-images.githubusercontent.com/37108394/198897186-21ac8495-a5e1-47f0-b476-f1b5b3995659.gif" />
 </p>
+
+## 🆕NEW
+Learn how to effectively manage and process DICOM files in Python with our comprehensive course, designed to equip you with the skills and knowledge you need to succeed.
+
+https://www.learn.pycad.co/course/dicom-simplified
